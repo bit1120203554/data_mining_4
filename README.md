@@ -19,7 +19,7 @@ congress.edgelist文件包含了所有边的数据。
 数据共有7624个节点，27806条边。密度为0.0009，传递率0.1787。
 数据集文件共有三个。
  
-	其中，lastfm_asia_edges.csv是边，共两列整数，代表边两端的节点。
+其中，lastfm_asia_edges.csv是边，共两列整数，代表边两端的节点。
 Lastfm_asia_target.csv是目标节点，有7624个数据项，编号为0-7623。
 而lastfm_asia_features.json是节点的特征值，有7624条、3e6余项数据。
 
